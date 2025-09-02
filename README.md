@@ -59,9 +59,9 @@
 
 ## Лицензия
 
-Проект распространяется под лицензией MIT. Подробности в [LICENSE](LICENSE).
+Проект распространяется под лицензией MIT.
 
 ## Ссылки
 
 - Скачайте последнюю версию: [Releases]([https://github.com/ваш_пользователь/ваш_репозиторий/releases](https://github.com/Band1kut/Pub-GetAudioBook/releases))
-- Сообщить об ошибке: [Issues](https://github.com/Band1kut/Pub-GetAudioBook/issues)
+- Сообщить об ошибке: [Issues](https://github.com/Band1kut/Pub-GetAudioBook/issues) или [Telegram](https://t.me/GetAudioBook_Support/18)
