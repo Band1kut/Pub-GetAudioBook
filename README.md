@@ -12,39 +12,44 @@
 
 ## Установка
 
-1. Скачайте последнюю версию утилиты с [Releases](https://github.com/ваш_пользователь/ваш_репозиторий/releases).
+1. Скачайте последнюю версию утилиты с [Releases](https://github.com/Band1kut/Pub-GetAudioBook/releases).
+   или [прямая ссылка на архив](https://github.com/Band1kut/Pub-GetAudioBook/releases/download/0.1/GetAudioBook.zip)
 2. Распакуйте архив и запустите исполняемый файл (Windows).
 3. Готово! Нет необходимости в установке.
 
 ## Использование
 
-1. **Поле поиска**: Введите название книги (например, "Гарри Поттер", "Чехов, читал Козин"). Программа сформирует поисковый запрос для Яндекса типа "книга site:audiokniga-online.ru | site:audioknigi.com ..." и откроет его в браузере.
+1. **Поле поиска**: Введите название книги (например, "Гарри Поттер", "Чехов, читал Козин"). Программа сформирует поисковый запрос для Яндекса типа "Гарри Поттер site:audiokniga-online.ru | site:knigavuhe.org ..." и откроет его в браузере.
 2. **Результаты**: На первой странице Яндекса часто можно найти нужную книгу. Скопируйте ссылку на страницу книги.
-3. **Поле ссылки**: Вставьте скопированную ссылку. Нажмите "?" рядом с полем, чтобы увидеть список поддерживаемых сайтов и открыть их в браузере.
-4. **Путь сохранения**: Укажите папку (например, `C:\Users\Bandikut\Music`). Будут созданы папки с названиями книг, содержащие MP3, обложку и описание.
+3. **Поле ссылки**: Вставьте скопированную ссылку в соответствующее поле. 
+4. **Путь сохранения**: Укажите папку (например, `C:\Users\User\Music`). Будут созданы папки с названиями книг, содержащие MP3, обложку и описание.
 5. **Скачивание**: Нажмите кнопку "Скачать" для запуска процесса.
 
+Нажмите "?" рядом с полем Ссылка, чтобы увидеть список поддерживаемых сайтов и открыть их в браузере.
+
 ## Скриншоты
+<img width="646" height="474" alt="image" src="https://github.com/user-attachments/assets/f7379b07-d1e6-4ba8-ab82-8808e68029e9" />
+<img width="898" height="475" alt="image" src="https://github.com/user-attachments/assets/d702a5c3-6181-4cf0-a504-1bcd47080fbf" />
 
 
 ## Поддерживаемые сайты
 
-- ✔ [https://knigavuhe.org/](https://knigavuhe.org/)
-- ✔ [https://audiokniga-online.ru/](https://audiokniga-online.ru/)
-- ✔ [https://bookish.site/](https://bookish.site/)
-- ✔ [https://uknig.com/](https://uknig.com/)
-- ✔ [https://slovushko.com/](https://slovushko.com/)
-- ✔ [https://audiokniga.one/](https://audiokniga.one/)
-- ✔ [https://knizhin.net/](https://knizhin.net/)
-- ✔ [https://book-zvuk.ru/](https://book-zvuk.ru/)
-- ✔ [https://vseaudioknigi.com/](https://vseaudioknigi.com/)
-- ✔ [https://lis10book.com/](https://lis10book.com/)
-- ✔ [https://knigi-audio.com/](https://knigi-audio.com/)
-- ✔ [https://knigimp3.com/](https://knigimp3.com/)
-- ✔ [https://slushkin.online/](https://slushkin.online/)
-- ✔ [https://audioknigi.pro/](https://audioknigi.pro/)
-- ✔ [https://audioknigi.fun/](https://audioknigi.fun/)
-- ✔ [https://izib.uk/](https://izib.uk/)
+- [audiokniga-online.ru](https://audiokniga-online.ru/)
+- [audiokniga.one](https://audiokniga.one/)
+- [audioknigi.fun](https://audioknigi.fun/)
+- [audioknigi.pro](https://audioknigi.pro/)
+- [book-zvuk.ru](https://book-zvuk.ru/)
+- [bookish.site](https://bookish.site/)
+- [izib.uk](https://izib.uk/)
+- [knigi-audio.com](https://knigi-audio.com/)
+- [knigimp3.com](https://knigimp3.com/)
+- [knigavuhe.org](https://knigavuhe.org/)
+- [knizhin.net](https://knizhin.net/)
+- [lis10book.com](https://lis10book.com/)
+- [slovushko.com](https://slovushko.com/)
+- [slushkin.online](https://slushkin.online/)
+- [uknig.com](https://uknig.com/)
+- [vseaudioknigi.com](https://vseaudioknigi.com/)
 
 ## FAQ
 
@@ -58,5 +63,5 @@
 
 ## Ссылки
 
-- Скачайте последнюю версию: [Releases](https://github.com/ваш_пользователь/ваш_репозиторий/releases)
-- Сообщить об ошибке: [Issues](https://github.com/ваш_пользователь/ваш_репозиторий/issues)
+- Скачайте последнюю версию: [Releases]([https://github.com/ваш_пользователь/ваш_репозиторий/releases](https://github.com/Band1kut/Pub-GetAudioBook/releases))
+- Сообщить об ошибке: [Issues](https://github.com/Band1kut/Pub-GetAudioBook/issues)
