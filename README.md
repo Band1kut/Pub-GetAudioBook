@@ -13,7 +13,7 @@
 ## Установка
 
 1. Скачайте последнюю версию утилиты с [Releases](https://github.com/Band1kut/Pub-GetAudioBook/releases).
-   или [прямая ссылка на архив](https://github.com/Band1kut/Pub-GetAudioBook/releases/download/0.1/GetAudioBook.zip)
+   или прямые ссылки [GetAudioBook.exe](https://github.com/Band1kut/Pub-GetAudioBook/releases/download/0.1/GetAudioBook.exe), [GetAudioBook.zip](https://github.com/Band1kut/Pub-GetAudioBook/releases/download/0.1/GetAudioBook.zip)
 2. Распакуйте архив и запустите исполняемый файл (Windows).
 3. Готово! Нет необходимости в установке.
 
